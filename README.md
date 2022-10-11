@@ -7,6 +7,8 @@ A collection of smart home setup configurations and scripts!
 A VM was created to connect as a proxy to the rpi:
 Anyone --- GCP VM --- Rpi
 
+Access your [GCP VM](https://console.cloud.google.com/compute/disks)
+
 NOTE on GCP Billing: Setting up the cloud instance can all be done Under [GCP free tier](https://cloud.google.com/free/docs/gcp-free-tier/#compute). Make sure to select `standard PD` when setting up the boot disk for the compute engine.
 
 1. Rpi port to GCP 
